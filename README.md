@@ -1,0 +1,2 @@
+# automap
+Automating nmap scan
